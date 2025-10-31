@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "Pak"
+locale                   : "en_US"
 site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Acadamic_Solutions"
 title_separator          : "-"

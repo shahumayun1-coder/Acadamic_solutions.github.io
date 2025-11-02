@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
- [9Th Class]() |  [10th Class]()| [11th Class]() | [12th Class]()
+ [9Th Class]() <span style="margin-left:12px"></span>  [10th Class]()<span style="margin-left:12px"></span> [11th Class]() <span style="margin-left:12px"></span> [12th Class]()
  a This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads! Or [Youtube](https://www.youtube.com/watch?v=j-tXer7dIes)

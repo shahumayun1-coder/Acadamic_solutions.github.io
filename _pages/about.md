@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
- [9Th Class]() <span style="margin-left:30px"></span>  [10th Class]()<span style="margin-left:30px"></span> [11th Class]() <span style="margin-left:30px"></span> [12th Class]()
+ [9th Class]() <span style="margin-left:30px"></span>  [10th Class]()<span style="margin-left:30px"></span> [11th Class]() <span style="margin-left:30px"></span> [12th Class]()
 
 
 
